@@ -1,0 +1,153 @@
+/* Base rules */
+:root * {
+    font-family: 'Dosis', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h2 {
+    font-size: 2.125em;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+  margin: .5em 0 1em;
+}
+
+/* Utility classes */
+.u-text-center {
+    text-align: center;
+}
+
+.u-text-white {
+    color: white;
+}
+
+.u-bg-brand {
+    background-color: #489df2;
+    background: #3241a6;
+    background: -webkit-radial-gradient(center, ellipse cover, #3241a6 0,#202a6b 120%);
+    background: radial-gradient(ellipse at center, #3241a6 0,#202a6b 120%);
+}
+
+/* Section */
+.section {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.section-content {
+    width: 100%;
+}
+
+/* Jumbotron */
+.jumbotron-fluid h1 {
+    margin-bottom: 0;
+    font-family: 'Aladin', cursive;
+    font-size: 14vmin;
+}
+
+.lead {
+    font-size: 8vmin;
+}
+
+/* Link */
+.link-default,
+.list-grid a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+.link-default:hover,
+.link-default:focus,
+.list-grid a:hover,
+.list-grid a:focus {
+    text-decoration: underline;
+    color: #23527c;
+}
+
+/* Button */
+.btn {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 0;
+    padding: .4375em .875em;
+    border: 1px solid transparent;
+    border-radius: .25em;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    background-image: none;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.btn-primary {
+    color: white;
+    background-color: rgba(255, 255, 255, .2);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: rgba(255, 255, 255, .4);
+}
+
+.btn-lg {
+    font-size: 6vmin;
+}
+
+/* List grid */
+.list-grid {
+    margin-bottom: 3rem;
+    font-size: 1.25em;
+}
+
+.list-grid ol {
+    padding: 0;
+}
+
+.list-grid li {
+    line-height: 1.5;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: .5em 0;
+    background-color: #8AFF33;
+}
+
+@media only screen and (min-width: 500px) {
+  .lead {
+      font-size: 5vmin;
+  }
+  .btn-lg {
+      font-size: 4vmin;
+  }
+  .list-grid ol {
+      column-count: 3;
+  }
+}
+#maintainer{
+    color: #e5271d;
+}
