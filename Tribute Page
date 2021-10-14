@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tribute Page</title>
+  </head>
+<body style="background-color:violet ;">
+<header>
+  <h1> A. P. J. Abdul Kalam </h1>
+</header>
+<figure>
+<img src="Sir.webp" alt="Image of Sir A. P. J. Abdul Kalam">
+<figcaption>Image of A. P. J. Abdul Kalam</figcaption>
+</figure>
+<p><b>Avul Pakir Jainulabdeen Abdul Kalam</b> born on 15 October 1931 , was an Indian aerospace scientist who served as the 11th President of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the <a href=" https://en.m.wikipedia.org/wiki/Defence_Research_and_Development_Organisation">Defence Research and Development Organisation (DRDO)</a> and <a href="https://en.m.wikipedia.org/wiki/Indian_Space_Research_Organisation"> Indian Space Research Organisation (ISRO)</a> and was intimately involved in India's civilian space programme and military missile development efforts. He thus came to be known as the <b>Missile Man of India</b> for his work on the development of ballistic missile and launch vehicle technology. He also played a pivotal organisational, technical, and political role in India's <a href=" https://en.m.wikipedia.org/wiki/Pokhran-II"> Pokhran-II</a> nuclear tests in 1998, the first since the original nuclear test by India in 1974.</p>
+<p>A. P. J. Abdul Kalam has received numerous honours and awards , some of them are :</p>
+<ol>
+  <li>Bharat Ratna</li>
+  <li>Dr. A. P. J. Abdul Kalam Award</li>
+  <li>Hoover Medal</li>
+  <li>International von Kármán Wings Award</li>
+  <li>Indira Gandhi Award for National Integration</li>
+  <li>IEEE Honorary Membership</li>
+  <li>Veer Savarkar Award</li>
+  <li>King Charles II Medal</li>
+  <li>Ramanujan Award</li>
+</ol>
+<p> Some of Sir A. P. J. Abdul Kalam most famous quotes which I like are : </p>
+<blockquote>“Don’t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.”</blockquote><q>-- A. P. J. Abdul Kalam</q>
+<blockquote>"If you fail, never give up because FAIL means "First Attempt In Learning""</blockquote><q>-- A. P. J. Abdul Kalam</q>
+</body>
+</html>
