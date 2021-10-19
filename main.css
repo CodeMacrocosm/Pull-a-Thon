@@ -60,12 +60,6 @@
         width: 100%;
     }
     /* Jumbotron */
-
-    .container{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
     
     .jumbotron-fluid h1 {
         margin-bottom: 0;
@@ -76,7 +70,6 @@
     
     .lead {
         font-size: 8vmin;
-        margin-left: 1rem;
     }
     .lead a{
         color:plum;
@@ -87,6 +80,7 @@
     .list-grid a {
         text-decoration: none;
         color:rgb(117, 75, 158);
+        transition: all 0.4s ease-in-out;
     }
     
     .signup-link {
@@ -98,8 +92,7 @@
     .link-default:focus,
     .list-grid a:hover,
     .list-grid a:focus {
-        color: #171718;
-        text-decoration: underline;
+        color: #2d3e50;
     }
     
     .signup-link:hover,
@@ -140,8 +133,7 @@
     
     .btn-primary:hover,
     .btn-primary:focus {
-        /* border: 2px solid black; */
-        color: white;
+        background-color: rgba(255, 255, 255, .4);
     }
     
     .btn-lg {
@@ -164,20 +156,15 @@
     }
     
     .footer {
-        /* position: fixed; */
+        position: fixed;
         left: 0;
         bottom: 0;
         width: 100%;
         padding: .5em 0;
-        background-color: rgb(17, 16, 17);
+        background-color: palevioletred;
     }
     .footer a{
-     color:white;
-     font-size: 23px;
-    }
-    .footer a:hover{
-     color:white;
-     text-decoration: underline;
+     color:black;
     }
     
     @media only screen and (min-width: 500px) {
