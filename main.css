@@ -1,180 +1,180 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap');
-@font-face {
-    font-family: 'bariol';
-    src: url("bariol.ttf");
-}
-/* Base rules */
-
-* {
-    margin: 0;
-    padding: 0;
-    font-family: 'Nunito Sans', sans-serif;
-    box-sizing: border-box;
-    scrollbar-width: thin;
-    scrollbar-color: #1feb30 #060d1a;
-}
-
-body {
-    background-color:rgb(80, 78, 78);
-}
-
-h2 {
-    font-size: 2.5em;
-    margin: 1em;
-    letter-spacing: 3px;
-}
-
-li {
-    list-style-type: none;
-}
-
-p {
-    margin: .5em 0 1em;
-}
-/* Utility classes */
-
-.u-text-center {
-    text-align: center;
-}
-
-.u-text-white {
-    color:rgba(0, 0, 0, 0.849);
-}
-
-.u-bg-brand {
-    background: linear-gradient(to bottom, #e2e7ee, #010409);
-}
-/* Section */
-
-.section {
-    display: -webkit-flex;
-    display: -ms-flex;
-    display: flex;
-    align-items: center;
-    min-height: 100vh;
-    padding-left: 1em;
-    padding-right: 1em;
-}
-
-.section-content {
-    width: 100%;
-}
-/* Jumbotron */
-
-.jumbotron-fluid h1 {
-    margin-bottom: 0;
-    font-size: 4em;
-    letter-spacing: 8px;
-    font-family: "bariol", sans-serif;
-}
-
-.lead {
-    font-size: 8vmin;
-}
-.lead a{
-    color:rgb(7, 7, 7);
-}
-/* Link */
-
-.link-default,
-.list-grid a {
-    text-decoration: none;
-    color:rgb(253, 85, 7);
-    transition: all 0.4s ease-in-out;
-}
-
-.signup-link {
-    color: aquamarine;
-    transition: all 0.4s ease-in-out;
-}
-
-.link-default:hover,
-.link-default:focus,
-.list-grid a:hover,
-.list-grid a:focus {
-    color: #2d3e50;
-}
-
-.signup-link:hover,
-.signup-link:focus {
-    color: white;
-}
-/* Button */
-
-.btn {
-    display: inline-block;
-    vertical-align: middle;
-    margin-bottom: 0;
-    padding: .4375em .875em;
-    border: 1px solid transparent;
-    border-radius: 50px;
-    line-height: 1.5;
-    text-align: center;
-    text-decoration: none;
-    white-space: nowrap;
-    background-image: none;
-    -ms-touch-action: manipulation;
-    touch-action: manipulation;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    transition: all 0.4s ease-in-out;
-}
-
-.btn-primary {
-    color: white;
-    background-color: rgba(255, 255, 255, .2);
-    transition: all 0.4s ease-in-out;
-    color: white;
-    background-color: rgba(255, 255, 255, .2);
-}
-
-.btn-primary:hover,
-.btn-primary:focus {
-    background-color: rgba(255, 255, 255, .4);
-}
-
-.btn-lg {
-    font-size: 6vmin;
-}
-/* List grid */
-
-.list-grid {
-    margin-bottom: 3rem;
-    font-size: 1.25em;
-}
-
-.list-grid ol {
-    padding: 0;
-}
-
-.list-grid li {
-    line-height: 1.5;
-    line-height: 1.9;
-}
-
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    padding: .5em 0;
-    background-color: palevioletred;
-}
-.footer a{
- color:black;
-}
-
-@media only screen and (min-width: 500px) {
+    @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap');
+    @font-face {
+        font-family: 'bariol';
+        src: url("bariol.ttf");
+    }
+    /* Base rules */
+    
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: 'Nunito Sans', sans-serif;
+        box-sizing: border-box;
+        scrollbar-width: thin;
+        scrollbar-color: #1f6feb #010409;
+    }
+    
+    body {
+        background-color:darkgray;
+    }
+    
+    h2 {
+        font-size: 2.5em;
+        margin: 1em;
+        letter-spacing: 3px;
+    }
+    
+    li {
+        list-style-type: none;
+    }
+    
+    p {
+        margin: .5em 0 1em;
+    }
+    /* Utility classes */
+    
+    .u-text-center {
+        text-align: center;
+    }
+    
+    .u-text-white {
+        color:rgb(224, 188, 194);
+    }
+    
+    .u-bg-brand {
+        background: linear-gradient(to bottom, #0d1117, #010409);
+    }
+    /* Section */
+    
+    .section {
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        align-items: center;
+        min-height: 100vh;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    
+    .section-content {
+        width: 100%;
+    }
+    /* Jumbotron */
+    
+    .jumbotron-fluid h1 {
+        margin-bottom: 0;
+        font-size: 4em;
+        letter-spacing: 8px;
+        font-family: "bariol", sans-serif;
+    }
+    
     .lead {
-        font-size: 5vmin;
+        font-size: 8vmin;
     }
+    .lead a{
+        color:plum;
+    }
+    /* Link */
+    
+    .link-default,
+    .list-grid a {
+        text-decoration: none;
+        color:rgb(117, 75, 158);
+        transition: all 0.4s ease-in-out;
+    }
+    
+    .signup-link {
+        color: aquamarine;
+        transition: all 0.4s ease-in-out;
+    }
+    
+    .link-default:hover,
+    .link-default:focus,
+    .list-grid a:hover,
+    .list-grid a:focus {
+        color: #2d3e50;
+    }
+    
+    .signup-link:hover,
+    .signup-link:focus {
+        color: white;
+    }
+    /* Button */
+    
+    .btn {
+        display: inline-block;
+        vertical-align: middle;
+        margin-bottom: 0;
+        padding: .4375em .875em;
+        border: 1px solid transparent;
+        border-radius: 50px;
+        line-height: 1.5;
+        text-align: center;
+        text-decoration: none;
+        white-space: nowrap;
+        background-image: none;
+        -ms-touch-action: manipulation;
+        touch-action: manipulation;
+        cursor: pointer;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        transition: all 0.4s ease-in-out;
+    }
+    
+    .btn-primary {
+        color: white;
+        background-color: rgba(255, 255, 255, .2);
+        transition: all 0.4s ease-in-out;
+        color: white;
+        background-color: rgba(255, 255, 255, .2);
+    }
+    
+    .btn-primary:hover,
+    .btn-primary:focus {
+        background-color: rgba(255, 255, 255, .4);
+    }
+    
     .btn-lg {
-        font-size: 4vmin;
+        font-size: 6vmin;
     }
+    /* List grid */
+    
+    .list-grid {
+        margin-bottom: 3rem;
+        font-size: 1.25em;
+    }
+    
     .list-grid ol {
-        column-count: 3;
+        padding: 0;
     }
-}
+    
+    .list-grid li {
+        line-height: 1.5;
+        line-height: 1.9;
+    }
+    
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding: .5em 0;
+        background-color: palevioletred;
+    }
+    .footer a{
+     color:black;
+    }
+    
+    @media only screen and (min-width: 500px) {
+        .lead {
+            font-size: 5vmin;
+        }
+        .btn-lg {
+            font-size: 4vmin;
+        }
+        .list-grid ol {
+            column-count: 3;
+        }
+    }
