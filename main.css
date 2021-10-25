@@ -178,3 +178,72 @@
             column-count: 3;
         }
     }
+
+
+    .login_body{
+        background-color: #fefae0;
+        margin-top: 5rem;
+      }
+      
+      .login_header{
+        margin: 3rem;
+      
+        text-align: center;
+        font-family: 'Roboto Condensed', sans-serif;
+        color: red;
+      }
+      
+      .icon_logo{
+        width: 15%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+      }
+      .login_card_header{
+        font-family: 'Train One', cursive;
+        text-align: center;
+      }
+      .signup_card_header{
+        font-family: 'Train One', cursive;
+        text-align: center;
+      }
+      .login_card{
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 1.2rem;
+      }
+      .login_body{
+        font-size: 1.5rem;
+      }
+      .login_input{
+        margin: 1rem;
+        width: 80%;
+        height: 50px;
+      
+      }
+      
+      .login_submit{
+        text-align: center;
+      
+      }
+      .login_button{
+        margin-bottom: 2rem;
+      }
+      .privacy{
+        text-align: center;
+        font-size: large;
+        margin-bottom: 2rem;
+      }
+      .first_col{
+        border-right: 1px solid black;
+        border-bottom: 1px solid black;
+      }
+      .google_card{
+      margin-top: 5rem;
+      margin-bottom: 1rem;
+      }
+      .or{
+        text-align: center;
+      }
