@@ -1,6 +1,6 @@
 
 <p align="center" style="background-color: #57283e;"><img src="https://github.com/CodeMacrocosm/Devathon/blob/main/images/hacktoberfest21.svg"></p>
-
+#hacktoberfest 2021
 # PULLATHON - Hacktoberfest First Pull request Helper !
 The goal of this repo is to help beginners who are doing their first pull requests. Feel free to join!
 
