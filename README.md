@@ -1,6 +1,12 @@
-# Pullathon'21 - Your First Pull Request Companion! 🚀
+# 🚀🌟 Pull-a-Thon'21 - Your First Pull Request Companion! 🔥💻🎉
 
-Welcome to Pullathon'20 – Your Entry Point to Open Source Collaboration 🎉 Pull-a-Thon'21 is here to support newcomers as they embark on their journey of making their first pull requests. Come along with us on this adventure into the world of open source, and let's enjoy some coding together! 💻
+Welcome to Pull-a-Thon'21 – Your Entry Point to Open Source Collaboration 🎉 Pullathon'21 is here to support newcomers as they embark on their journey of making their first pull requests. Come along with us on this adventure into the world of open source, and let's enjoy some coding together! 💻🌟🙌🚀
+
+[![Contributors](https://img.shields.io/badge/Contributors-132-brightgreen.svg)]()
+
+[![Forks](https://img.shields.io/badge/Forks-114-blue.svg)]()
+
+[![Stars](https://img.shields.io/badge/Stars-23-yellow.svg)]()
 
 ## About Pull-a-Thon'21 📜
 
