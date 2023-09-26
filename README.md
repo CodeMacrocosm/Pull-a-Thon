@@ -1,16 +1,20 @@
 
-<p align="center" style="background-color: #57283e;"><img src="https://github.com/CodeMacrocosm/Devathon/blob/main/images/hacktoberfest21.svg"></p>
+
 
 # PULLATHON - Hacktoberfest First Pull request Helper !
 The goal of this repo is to help beginners who are doing their first pull requests. Feel free to join!
 
 
-## Instruction
-In the index.html file, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile.
+# Pullathon'20
 
 
-# How to Create a Pull Request
+## About
 
+Welcome to Pullathon'20 – Your gateway to open source collaboration and a fantastic Hacktoberfest experience! Pullathon'20 is your opportunity to dive into open source development, collaborate with fellow developers, and earn cool swag during Hacktoberfest. This project is all about welcoming contributions and having fun while learning and coding together.
+
+## Getting Started
+
+Let's make your journey as smooth as possible: In the index.html file, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile.
 
   - Click on the fork on the top to fork this repo.
   - Go to your repo where you fork the project.
@@ -22,9 +26,185 @@ In the index.html file, look for the 'ol' tag. Then insert a 'li' tag with your 
   - Go back to the original repo.
   - Hit "new pull request" and compare between forks.
   - Confirm the pull request and that's it!
+   
 
-## Swags of Hacktoberfest:
-- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
- 
-     <li><B><p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p><p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
-</b></li>
+## Contributors
+
+Check out the amazing contributors who have joined the Pullathon'20 journey. Join the list by making your contributions today!
+
+
+- [Mantosh Sharma](https://github.com/mantosh1)
+- [Narayan](https://github.com/narayan-sahu)
+- [Himanshu Singh](https://github.com/himanxu1)
+- [Aakash Maurya](https://github.com/Aakashmau)
+- [Ankur Mishra](https://github.com/ankurm23)
+- [Abhishek Jaiswal](https://github.com/abhijais27)
+- [Awal Ariansyah](https://github.com/snowfluke)
+- [Rohit Tewari](https://github.com/rtewari056)
+- [Santu Mete](https://github.com/santu-2024)
+- [Shashwat49](https://github.com/Shashwat49)
+- [Shubham Goyal](https://github.com/ShubhamGoyal7125)
+- [Ronit Dutta](https://github.com/RD91/)
+- [Munish Kumar](https://github.com/munish0838)
+- [Aisha Pervin](https://github.com/aishapervin)
+- [Mansi V Jain](https://github.com/Mansivjain00)
+- [Pranendu Pradhan](https://github.com/pbpcodes)
+- [Aashish](https://github.com/BrAwLeR001)
+- [Aman Dutt](https://github.com/adgamerx)
+- [Vikash Maurya](https://github.com/kalvik09)
+- [Shruthi](https://github.com/qwe-123punk)
+- [Varsha M](https://github.com/varshamanjunath)
+- [Sarthak Upadhyay](https://github.com/sarthakupadhyay06)
+- [Akshay Nachappa](https://github.com/AkshayNachappa)
+- [shruthi kotawar](https://github.com/shruthi-kotawar)
+- [Priyansh Jha](https://github.com/priyansh74)
+- [Mayank Kushwah](https://github.com/mayank4747)
+- [karena](https://github.com/karr007)
+- [andriawan24](https://github.com/andriawan24)
+- [Gaurang Mishra](https://github.com/gaurangseven)
+- [Vishal Vishwakarma](https://github.com/vishalvishw10)
+- [sheba carolyn](https://github.com/shebacarolyn)
+- [mittapallypoojareddy](https://github.com/mittapallypoojareddy)
+- [EhDattavallabh](https://github.com/EhDattavallabh)
+- [sharma mantosh](https://github.com/mr-mantosh)
+- [prakashkumar](https://github.com/prakash-sah-lab)
+- [roshanmelanta](https://github.com/roshanmelanta)
+- [abhishek](https://github.com/abhishek213-alb)
+- [Anwarali](https://github.com/Anwarali143)
+- [subhoS](https://github.com/subhoS)
+- [Deepanshu Goel](https://github.com/DeepanshuGoel1122)
+- [noundlachandrasangna](https://github.com/chandrasangna)
+- [niharika](https://github.com/niharikaponugoti)
+- [Sajal](https://github.com/sajal-kumar)
+- [Rakesh kumar lenka](https://github.com/Rakujagu)
+- [Praneeth Yadav](https://github.com/praneeth2yadav)
+- [Karthik Kumar](https://github.com/kittu2karthik)
+- [Mansi Singla](https://github.com/mansi-singla-31215)
+- [Ankit Kumar](https://github.com/Nightowl-8)
+- [Sarthak Gautam](https://github.com/SarthakGautam2561)
+- [Irgiyansyah](https://github.com/iynsys)
+- [Akash Rao](https://github.com/akash-rao-2001)
+- [Mayank Sharma](https://github.com/Mayank-Sharma-1791)
+- [Shuvam Adhikari](https://github.com/github.com/WHOISshuvam)
+- [Oarabile Mwiya](https://github.com/OarabileMwiya)
+- [mArio](https://github.com/mariosamaaa)
+- [Gipsi](https://github.com/gipsi)
+- [Aditya Raj](https://github.com/AdityaRaj-ar)
+- [Debdeep Banerjee](https://github.com/Debdeep1)
+- [Hitesh Mishra](https://github.com/hitesh-mishra456)
+- [Md. Salman Hossan Prottoy](https://github.com/salmanprottoy)
+- [Deepsundar Rout](https://github.com/Deep9110)
+- [udoyhasan](https://github.com/udoyhasan)
+- [Saurabh gupta](https://github.com/skgx)
+- [Hathaipach](https://github.com/Hathaipach)
+- [Jyoti Rawat](https://github.com/jyotirawat48)
+- [Sadathulla Shariff](https://github.com/sadathshariff)
+- [Prajwal Benedict A](https://github.com/BENEDICT9845)
+- [Ruchira Perera](https://github.com/Ruchira95)
+- [Cibin Chandrasekhar](https://github.com/Ruchira95)
+- [sonal Singh](https://github.com/sonalsingh25)
+- [Jyoti Rawat](https://github.com/gargibisht)
+- [Kushagra-Chauhan](https://github.com/Kushagra-Chauhan)
+- [Aakash Verma](https://github.com/Aakash130302)
+- [Himanshu saha](https://github.com/Himanshusaha673)
+- [Sneha Agarwal](https://github.com/isyneha)
+- [Anshuman Tripathy](https://github.com/AnshumanTripathy123)
+- [Javier Marin](https://github.com/jaym832)
+- [Rahul Singh](https://github.com/rahulxsingh)
+- [Yashita Namdeo](https://github.com/yashitanamdeo)
+- [Sonal Singh](https://github.com/sonalsingh25)
+- [Rohit Dhiman](https://github.com/AnshuSd12)
+- [Kushan Ravindu](https://github.com/Kushanrawindu)
+- [Muhammad Syahrur Rahmansyah](https://github.com/syahrur)
+- [Shobhith PK](https://github.com/spk101)
+- [Harith Kumar N](https://github.com/harith123)
+- [Sweety Rajbhar](https://github.com/sweety15)
+- [Abdullah Nauman](https://github.com/naumanahmed19)
+- [Swathi Shukla](https://github.com/killbill1996)
+- [Ashley Souza](https://github.com/ashley-souza)
+- [Vignesh Ks](https://github.com/vigneshks)
+- [Roshan Gupta](https://github.com/roshangpt4)
+- [Roshan Gupta](https://github.com/roshangpt4)
+- [Lakshay Yadav](https://github.com/Lakshay151205)
+- [Ajay Yadav](https://github.com/Ajay0298)
+- [pavithraGowthaman](https://github.com/pavithraGowthaman)
+- [Hasan Reyad](https://github.com/HasanReyad)
+- [Aditi Mittal](https://github.com/Aditi-Mittal)
+- [Nihir Desai](https://github.com/nihirdesai22)
+- [Lakshay Yadav](https://github.com/Lakshay151205)
+- [Md. Omar Sarwar Sazid](https://github.com/omarsarwarsazid)
+- [Alonso Fassina](https://github.com/afassina)
+- [Mohammad Khaled Hasan](https://github.com/KhaledHasan)
+- [Shashwat Tripathi](https://github.com/thepalakchourasiya)
+- [Pooja Budki](https://github.com/poojabudki)
+- [Khushboo Shrivastava](https://github.com/KhushbooShrivastava)
+- [Akash Joshi](https://github.com/akashjoshi0609)
+- [Aiman Rizvi](https://github.com/aimanriz)
+- [Rishav Garg](https://github.com/rishavgarg)
+- [Aditi Goyal](https://github.com/Aditiigoyal)
+- [Ashutosh Dwivedi](https://github.com/Ashutosh-Dwivedi)
+- [Abdullah Wassem](https://github.com/abdullahwassem)
+- [Pritesh Agarwal](https://github.com/priteshac)
+- [Marvin Maturo](https://github.com/mavinoo)
+- [Medzadz7](https://github.com/Medzadz7)
+- [Md Saheb Alam](https://github.com/Sahebalam06)
+- [Vineet Patel](https://github.com/vineetpatil)
+- [Parvez Patel](https://github.com/parvezpatel)
+- [Ashutosh Dubey](https://github.com/codingismycraft)
+- [Parneet Kaur](https://github.com/parneet098)
+- [Ayon Roy](https://github.com/silentbee365)
+- [Faiq Siddiqui](https://github.com/FaiqSiddiqui)
+- [Aryan Raj](https://github.com/aryanraj888)
+- [Harsha Vardhan](https://github.com/hvishwakarma25)
+- [Sumukha M. Hegde](https://github.com/SumukhaHegde)
+- [Harish](https://github.com/Ki-r-a-n)
+- [Rashmi Kumari](https://github.com/Rashmi-ep)
+- [Adebola Adeniran](https://github.com/Adebola17)
+- [Joy Halder](https://github.com/iamjoyhalder)
+- [Divya Rajput](https://github.com/Dryrt)
+- [Anushka Srivastava](https://github.com/anushkasrivastava)
+- [Aditi Panda](https://github.com/AditiPanda)
+- [Devanshu Solanki](https://github.com/DevanshuS)
+- [Lamia Rahman](https://github.com/lamia022)
+- [Niharika](https://github.com/niharikaponugoti)
+- [Zaim Hassan](https://github.com/ZaimHassan)
+- [Rashika Goel](https://github.com/rashikagoel)
+- [Virendra Agarwal](https://github.com/virendra-agr)
+- [Jiaqi Liu](https://github.com/jiaqiliu)
+- [Albertus Angga Kurniawan](https://github.com/aakurniawan)
+- [Reka Syahputri](https://github.com/Reka-Syahputri)
+- [Bich Thao Nguyen](https://github.com/bichthao1400)
+- [Munish Kumar](https://github.com/munish0838)
+- [Yaswanth Kumar Reddy](https://github.com/yaswanthkumardev)
+- [Anjali Singh](https://github.com/anjali-singh-23)
+- [Kurniawan Adhi Pratama](https://github.com/Adhipratama)
+- [Aryan Raj](https://github.com/aryanraj888)
+- [Elyor Fazilov](https://github.com/elyor0529)
+- [Rohan Jhakar](https://github.com/rohanjhakar)
+- [Vishwas Srivastava](https://github.com/vishwassrivastava)
+- [Deepak Kumar Yadav](https://github.com/deepak0612)
+- [Karim Elghamry](https://github.com/karimelghamry)
+- [Soumya Ranjan Mohanty](https://github.com/SoumyaRanjanMohanty)
+- [Eden Tsegaye](https://github.com/eden)
+- [Daniel Adigun](https://github.com/d-adigun)
+- [Surya Prakash Singh](https://github.com/suryapsingh)
+- [Priya Yadav](https://github.com/priya-9)
+- [Tushar](https://github.com/tushargoyal)
+- [Atul Prajapati](https://github.com/atulprajapati17)
+- [Abhishek Prusty](https://github.com/abhi0928)
+- [Chauhan Vimal](https://github.com/vimalchauhan456)
+- [Ayush Dubey](https://github.com/ayushdubey001)
+- [Nidhi Verma](https://github.com/nidhiverma1999)
+- [Parth Verma](https://github.com/Parthverma33)
+- [Indrajit Bithi](https://github.com/Indrajit-Bithi)
+- [Swati Singh](https://github.com/Swati-Singh12)
+- [Prakhar Tiwari](https://github.com/Prakhartiwari9)
+- [Goutham B](https://github.com/b-venkat)
+- [Sandeep](https://github.com/sanlukumar)
+- [Oscar](https://github.com/vdj-ag)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
