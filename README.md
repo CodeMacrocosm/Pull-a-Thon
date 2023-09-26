@@ -4,11 +4,13 @@ Welcome to Pullathon'20 – Your Entry Point to Open Source Collaboration 🎉 P
 
 ## About Pull-a-Thon'21 📜
 
-Pullathon'21 is all about embracing the open source ethos! It's your opportunity to step into the realm of open source development, collaborate with fellow developers, and score some fantastic swag as you go. 🌟 This initiative is created and hosted by Shreya Malogi to ensure your open source journey is as seamless as possible, so don't hesitate to dive in.
+Pullathon'21 is all about embracing the open source ethos! It's your opportunity to step into the realm of open source development, collaborate with fellow developers
+
+🌟 This initiative is created and hosted by Shreya Malogi to ensure your open source journey is as seamless as possible, so don't hesitate to dive in.
 
 ## Getting Started 🚀
 
-Here's a step-by-step guide to help you kickstart your Hacktoberfest journey with Pullathon'21:
+Here's a step-by-step guide to help you kickstart your journey with Pullathon'21:
 
 1. 🍴 **Fork this Repo**: Click on the "Fork" button at the top right corner of this repository. This will create a copy of Pullathon'20 in your GitHub account.
 
@@ -34,10 +36,13 @@ If you found Pullathon'20 helpful and fun, don't forget to give it a star ⭐ to
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+MIT License
+
+Copyright (c) 2021 CodeMacrocosm
+
 ## 🌟 Join the Fun
 
-Pullathon'20 is not just about making your first pull request; it's about embracing the open source community, learning, and having a blast during Hacktoberfest. So, dive in, contribute, and let's make this Hacktoberfest memorable! 🥳
-
+Pullathon'21 is not just about making your first pull request; it's about embracing the open source community, learning, and having a blast during Hacktoberfest. So, dive in, contribute,
 Happy coding! 🚀🎉
    
 
@@ -217,5 +222,5 @@ Check out the amazing contributors who have joined the Pull-a-Thon'21 journey. J
 - [Oscar](https://github.com/vdj-ag)
 
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
