@@ -1,36 +1,49 @@
+# Pullathon'21 - Your First Pull Request Companion! 🚀
 
+Welcome to Pullathon'20 – Your Entry Point to Open Source Collaboration 🎉 Pull-a-Thon'21 is here to support newcomers as they embark on their journey of making their first pull requests. Come along with us on this adventure into the world of open source, and let's enjoy some coding together! 💻
 
+## About Pull-a-Thon'21 📜
 
-# PULLATHON - Hacktoberfest First Pull request Helper !
-The goal of this repo is to help beginners who are doing their first pull requests. Feel free to join!
+Pullathon'21 is all about embracing the open source ethos! It's your opportunity to step into the realm of open source development, collaborate with fellow developers, and score some fantastic swag as you go. 🌟 This initiative is created and hosted by Shreya Malogi to ensure your open source journey is as seamless as possible, so don't hesitate to dive in.
 
+## Getting Started 🚀
 
-# Pullathon'20
+Here's a step-by-step guide to help you kickstart your Hacktoberfest journey with Pullathon'21:
 
+1. 🍴 **Fork this Repo**: Click on the "Fork" button at the top right corner of this repository. This will create a copy of Pullathon'20 in your GitHub account.
 
-## About
+2. 📥 **Clone Your Repo**: Go to your newly forked repository on GitHub and click the "Clone" button.
 
-Welcome to Pullathon'20 – Your gateway to open source collaboration and a fantastic Hacktoberfest experience! Pullathon'20 is your opportunity to dive into open source development, collaborate with fellow developers, and earn cool swag during Hacktoberfest. This project is all about welcoming contributions and having fun while learning and coding together.
+3. 📦 **Clone the Repo Locally**:  This will download the repository to your local machine.
 
-## Getting Started
+4. 🖊️ **Edit the Index.html File**: Locate the `index.html` file in the project folder and open it. Find the `<ol>` tag and insert a `<li>` tag with a link to your GitHub profile. This will be your contribution to the project.
 
-Let's make your journey as smooth as possible: In the index.html file, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile.
+5. 💼 **Commit Your Changes**: Back in your terminal/command prompt, type `git add index.html` to stage your changes. Then, commit your changes with `git commit -m "[type a message]"`.
 
-  - Click on the fork on the top to fork this repo.
-  - Go to your repo where you fork the project.
-  - Hit the clone button on your forked repo and copy the given link.
-  - On your terminal / command prompt, type "git clone [put the link here]".
-  - Change the index file in the folder.
-  - Afterward, on your terminal / command prompt, type "git add index.html"; then 'git commit -m "[type a message]" '.
-  - Push the commit. For example, type "git push origin main".
-  - Go back to the original repo.
-  - Hit "new pull request" and compare between forks.
-  - Confirm the pull request and that's it!
+6. 🚀 **Push Your Commit**: Push your changes to your forked repository with `git push origin main`.
+
+7. 🔄 **Create a Pull Request**: Return to the original repository (the one you forked from). Click on "New pull request" and compare the changes between forks. Confirm the pull request.
+
+8. 🎉 **You're Done!**: You've successfully made your first pull request! Now, wait for it to be reviewed and merged.
+
+## ⭐ Star It
+
+If you found Pullathon'20 helpful and fun, don't forget to give it a star ⭐ to show your appreciation and support!
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🌟 Join the Fun
+
+Pullathon'20 is not just about making your first pull request; it's about embracing the open source community, learning, and having a blast during Hacktoberfest. So, dive in, contribute, and let's make this Hacktoberfest memorable! 🥳
+
+Happy coding! 🚀🎉
    
 
 ## Contributors
 
-Check out the amazing contributors who have joined the Pullathon'20 journey. Join the list by making your contributions today!
+Check out the amazing contributors who have joined the Pull-a-Thon'21 journey. Join the list by making your contributions today!
 
 
 - [Mantosh Sharma](https://github.com/mantosh1)
@@ -203,8 +216,6 @@ Check out the amazing contributors who have joined the Pullathon'20 journey. Joi
 - [Sandeep](https://github.com/sanlukumar)
 - [Oscar](https://github.com/vdj-ag)
 
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
