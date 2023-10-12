@@ -68,7 +68,7 @@ Here's a step-by-step guide to help you kickstart your journey 🚀
 
 3. 📦 **Clone the Repo Locally**:
    
-        This will download the repository to your local machine.
+   This will download the repository to your local machine.
 
 
 4. 🖊️ **Edit the Index.html File**:
