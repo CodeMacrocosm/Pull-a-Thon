@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 🌟 Pull-a-Thon'21 🎉 : Your PR Companion! 🔥
+# 🌟 Pull-a-Thon'21 🎉 : PR Companion! 🔥
 
 </div>
 <p align="center">
