@@ -48,7 +48,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 ### Overview
 
-Welcome to Pull-a-Thon'21, your gateway to open-source collaboration! 🎉 Join us as newcomers make their first pull requests and dive into the exciting world of open source. Let's code together and embrace the ethos of collaboration! 💻🌟🙌
+Welcome to Pull-a-Thon'21, your gateway to open-source collaboration! 🎉 Join us as newcomers make their first pull requests and dive into the exciting world of open source. Let's code together and embrace the ethos of collaboration! 🌟🙌
 
 🌟 This initiative is created and hosted by **Shreya Malogi** to ensure your open source journey is as seamless as possible, so don't hesitate to dive in.
 
