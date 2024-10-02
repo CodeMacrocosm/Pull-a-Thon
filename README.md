@@ -7,16 +7,16 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CodeMacrocosm/Pull-a-Thon-21/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Pull-a-Thon-21?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/CodeMacrocosm/Pull-a-Thon/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Pull-a-Thon?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/CodeMacrocosm/Pull-a-Thon-21/network">
-    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Pull-a-Thon-21?style=flat-square" alt="GitHub forks">
+  <a href="https://github.com/CodeMacrocosm/Pull-a-Thon/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Pull-a-Thon?style=flat-square" alt="GitHub forks">
   </a>
-  <a href="https://github.com/codemacrocosm/Pull-a-Thon-21/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/codemacrocosm/Pull-a-Thon-21.svg" alt="GitHub contributors">
+  <a href="https://github.com/codemacrocosm/Pull-a-Thon/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Pull-a-Thon.svg" alt="GitHub contributors">
   </a>
-  <img src="https://img.shields.io/github/license/CodeMacrocosm/Pull-a-Thon-21" alt="GitHub">
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Pull-a-Thon" alt="GitHub">
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-<a href="https://github.com/codeMacrocosm/Pull-a-Thon-21/graphs/contributors">
+<a href="https://github.com/codeMacrocosm/Pull-a-Thon/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pull-a-Thon-21" />
 </a>
 
@@ -63,7 +63,7 @@ Here's a step-by-step guide to help you kickstart your journey 🚀
 2. 📥 **Clone Your Fork** 
 
    ```bash
-   git clone https://github.com/codemacrocosm/Profile-a-Thon-22.git
+   git clone https://github.com/codemacrocosm/Profile-a-Thon.git
    ```
 
 3. 📦 **Clone the Repo Locally**:
