@@ -3,7 +3,9 @@
         font-family: 'bariol';
         src: url("bariol.ttf");
     }
-    /* Base rules */
+    
+
+/* Base rules */
     
     * {
         margin: 0;
