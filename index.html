@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,6 +14,7 @@
   <link rel="stylesheet" href="main.css" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
   <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <script src="./script.js"></script>
 </head>
 
 <body>
@@ -27,7 +27,7 @@
       <div class="section-content jumbotron-fluid u-text-white">
         <h1> Pull-a-Thon-21</h1>
         <p class="lead">
-          Your first step towards making a pull request 
+          Your first step towards making a pull request
         </p>
         <div class="container">
           <p class="lead">
@@ -45,9 +45,12 @@
     <div id="bottom" class="section">
       <div class="section-content u-text-center">
         <h2>October </h2>
+        <!-- Search Bar -->
+        <input type="text" id="searchBar" onkeyup="filterNames()" placeholder="Search for usernames..."
+          class="search-bar">
         <!-- SIGN IN HERE -->
         <div class="list-grid">
-          <ol>
+          <ol id="usernamesList">
             <li>
               <a target="_blank" href="https://github.com/tahak6715">Taha khan</a>
             </li>
@@ -160,7 +163,7 @@
             <li>
               <a target="_blank" href="https://github.com/EhDattavallabh">EhDattavallabh</a>
             </li>
-		<li>
+            <li>
               <a target="_blank" href="https://github.com/mr-mantosh">sharma mantosh</a>
             </li>
             <li>
@@ -424,13 +427,13 @@
             <li>
               <a target="_blank" href="https://github.com/Prajnaprabhu3">Prajna Prabhu</a>
             </li>
-             <li>
+            <li>
               <a target="_blank" href="https://github.com/adarshpnd71">Adarsh Pandey</a>
             </li>
             <li>
               <a target="_blank" href="https://github.com/das-amit">Amit Das</a>
             </li>
-	        <li>
+            <li>
               <a target="_blank" href="https://github.com/srishtikapoor">Srishti Kapoor</a>
             </li>
             <li>
@@ -449,15 +452,18 @@
               <a href="https://github.com/itzz-keerthi" target="_blank">Keerthana J</a>
             </li>
             <li>
-                <a href="https://github.com/Apoorva57" target="_blank">Apoorva</a>
+              <a href="https://github.com/Apoorva57" target="_blank">Apoorva</a>
             </li>
             <li>
-                <a href="https://github.com/vivekvardhan2810" target="_blank">Vivek Vardhan</a>
+              <a href="https://github.com/vivekvardhan2810" target="_blank">Vivek Vardhan</a>
             </li>
             <li>
-                <a href="https://github.com/deshpande-shruti" target="_blank">Shruti ND</a>
+              <a href="https://github.com/deshpande-shruti" target="_blank">Shruti ND</a>
             </li>
-		  
+            <li>
+              <a href="https://github.com/PankajR007" target="_blank">Pankaj R</a>
+            </li>
+
           </ol>
         </div>
 
@@ -467,9 +473,8 @@
   </div>
   <div class="footer u-text-center">
 
-    <a class="link-default" target="_blank" href=
-      <marquee width="60%" direction="left" height="100px">
-        Sign up for Pull-a-thon'21!
+    <a class="link-default" target="_blank" href=<marquee width="60%" direction="left" height="100px">
+      Sign up for Pull-a-thon'21!
     </a> </marquee>
 
 
