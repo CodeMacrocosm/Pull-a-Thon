@@ -269,3 +269,19 @@
       .or{
         text-align: center;
       }
+
+      /* Add styles for the search bar */
+.search-bar {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border: 2px solid black;
+  border-radius: 20px;
+  outline: none;
+}
+
+.search-bar:focus {
+  border-color: #7ed6df;
+}
+
