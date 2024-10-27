@@ -15,7 +15,7 @@
       }
     }
 
-function sortNames(order) {
+ function sortNames(order) {
       const ol = document.getElementById('usernamesList');
       const li = Array.from(ol.getElementsByTagName('li'));
 
@@ -37,4 +37,10 @@ function sortNames(order) {
       li.forEach(function(item) {
         ol.appendChild(item);
       });
+    }
+
+    function sortNamesDropdown() {
+      const dropdown = document.getElementById('sortDropdown');
+      const selectedValue = dropdown.value;
+      sortNames(selectedValue);
     }

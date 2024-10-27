@@ -287,23 +287,53 @@
 
 
 /* Styling for Sort Buttons */
-.sort-buttons {
-  margin: 10px 0;
+/* Styling for the container that holds both search bar and sort dropdown */
+.search-sort-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
-.sort-buttons .btn {
-  margin: 5px;
-  padding: 10px 15px;
+.search-bar {
+  width: 70%;
+  padding: 10px;
   font-size: 16px;
-  cursor: pointer;
+  border: 2px solid black;
   border-radius: 20px;
+  outline: none;
+  margin-right: 10px; /* Space between search bar and dropdown */
+}
+
+.search-bar:focus {
+  border-color: #7ed6df;
+}
+
+.sort-dropdown {
+  width: 20%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 10px;
+  outline: none;
   border: 2px solid black;
   background-color: #f6f682;
-  transition: all 0.4s ease-in-out;
 }
 
-.sort-buttons .btn:hover {
-  background-color: #7ed6df;
-  border-color: #1f6feb;
+.sort-dropdown:focus {
+  border-color: #7ed6df;
 }
 
+#usernamesList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+  column-gap: 10px;
+}
+
+#usernamesList li {
+  flex: 1 1 calc(75% - 20px); /* Adjust to control item width */
+  max-width: 400px;
+  text-align: center;
+  padding: 0px 50px;
+}
