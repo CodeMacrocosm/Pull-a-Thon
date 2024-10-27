@@ -48,6 +48,13 @@
         <!-- Search Bar -->
         <input type="text" id="searchBar" onkeyup="filterNames()" placeholder="Search for usernames..."
           class="search-bar">
+
+        <!-- Sorting Buttons -->
+        <div class="sort-buttons">
+          <button class="btn" onclick="sortNames('asc')">Sort A-Z</button>
+          <button class="btn" onclick="sortNames('desc')">Sort Z-A</button>
+        </div>
+
         <!-- SIGN IN HERE -->
         <div class="list-grid">
           <ol id="usernamesList">

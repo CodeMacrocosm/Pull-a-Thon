@@ -14,3 +14,27 @@
         }
       }
     }
+
+function sortNames(order) {
+      const ol = document.getElementById('usernamesList');
+      const li = Array.from(ol.getElementsByTagName('li'));
+
+      // Sort the li elements based on the text content
+      li.sort(function(a, b) {
+        const nameA = a.textContent.toLowerCase();
+        const nameB = b.textContent.toLowerCase();
+        if (order === 'asc') {
+          return nameA.localeCompare(nameB);
+        } else {
+          return nameB.localeCompare(nameA);
+        }
+      });
+
+      // Clear the existing list
+      ol.innerHTML = '';
+
+      // Append the sorted list items
+      li.forEach(function(item) {
+        ol.appendChild(item);
+      });
+    }
