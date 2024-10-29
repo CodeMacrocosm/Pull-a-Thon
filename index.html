@@ -46,8 +46,18 @@
       <div class="section-content u-text-center">
         <h2>October </h2>
         <!-- Search Bar -->
-        <input type="text" id="searchBar" onkeyup="filterNames()" placeholder="Search for usernames..."
-          class="search-bar">
+        <div class="search-sort-container">
+          <!-- Search Bar -->
+          <input type="text" id="searchBar" onkeyup="filterNames()" placeholder="Search for usernames..."
+            class="search-bar">
+
+          <!-- Sorting Dropdown -->
+          <select id="sortDropdown" onchange="sortNamesDropdown()" class="sort-dropdown">
+            <option value="asc">Sort A-Z</option>
+            <option value="desc">Sort Z-A</option>
+          </select>
+        </div>
+
         <!-- SIGN IN HERE -->
         <div class="list-grid">
           <ol id="usernamesList">
