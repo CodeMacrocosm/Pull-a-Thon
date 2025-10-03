@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 🌟 Pull-a-Thon'21 🎉 : PR Companion! 🔥
+# 🌟 Pull-a-Thon'21 🎉 : PR-Companion! 🔥
 
 </div>
 <p align="center">
@@ -112,6 +112,7 @@ Now, let the creation begin! 🎨
 
 Happy coding! 🚀🎉
    
+
 
 
 
