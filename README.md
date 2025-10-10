@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 # 🌟 Pull-a-Thon'21 🎉 : PR-Companion! 🔥
@@ -31,9 +28,6 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 </div>
 
-
-
-
 ### Table of Contents 📚
 
 1. [Overview](#overview)
@@ -42,9 +36,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 5. [License](#-license)
 6. [Thanks Contributors](#contributors-)
 
-
 ---
-
 
 ### Overview
 
@@ -89,7 +81,6 @@ Here's a step-by-step guide to help you kickstart your journey 🚀
 8. 🎉 **You're Done!**:
     Now, wait for it to be reviewed and merged.
 
-
 ### How to Star ⭐
 
 If you enjoyed this repo or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
@@ -103,7 +94,6 @@ MIT License
 Copyright (c) 2021 CodeMacrocosm
 
 
-
 ### Contributors 🙌
 
 A big thanks to all the creative minds who have contributed.
@@ -111,10 +101,3 @@ A big thanks to all the creative minds who have contributed.
 Now, let the creation begin! 🎨
 
 Happy coding! 🚀🎉
-   
-
-
-
-
-
-
